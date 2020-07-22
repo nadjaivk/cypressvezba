@@ -1,0 +1,8 @@
+node_modules/
+jspm_packages/
+
+cypress/videos
+cypress/screenshots
+cypress/reports
+cypress/.DS_Store
+.DS_Store
